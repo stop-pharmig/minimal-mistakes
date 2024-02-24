@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: Impressum und Kontakt
 permalink: impressum.html
 author: ÖXIT
@@ -11,8 +11,6 @@ colorlinks: true
 linkcolor: red
 pagenumbering: location=
 author_profile: false
-topmenu: false
-pagination: false
 ---
 
 Für den Inhalt verantwortlich:<br />
