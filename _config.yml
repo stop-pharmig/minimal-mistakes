@@ -22,7 +22,7 @@ subtitle                 : " "
 name                     : "ÖXIT"
 description              : "EU-AUSTRITT FÜR ÖSTERREICH"
 url                      : https://oexit-me.github.io
-baseurl                  : /minimal-mistakes/
+baseurl                  : /minimal-mistakes
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : /assets/images/2024-02-15-ÖXIT-Logo-full-optimiert.svg
