@@ -21,8 +21,8 @@ Die Änderung der Verträge zwischen den EU-Mitgliedstaaten - die die Grundlage 
 
 * Alleinvorschlagsrecht der EU-Kommission
 
-Das EU-Parlament kann die Vorschläge der EU-Kommission hinsichtlich der Änderung des auf den EU-Verträgen nicht annehmen oder ablehnen. Ein massiver Rückbau des EU-Rechts ist von der EU-Kommission nicht zu erwarten – welche Zentral-Bürokratie würde einen Bürokratie-Abbau vorantreiben?
+Nur die nicht gewählte EU-Kommission kann neue EU-Verordnungen oder Richtlinien vorschlagen bzw. Vorschläge zur Abänderung von bestehenden Verordnungen oder Richtlinien machen. Das gewählte EU-Parlament kann lediglich die Vorschläge der EU-Kommission annehmen oder ablehnen. Ein massiver Rückbau des EU-Rechts ist von der EU-Kommission nicht zu erwarten – welche Zentral-Bürokratie würde einen Bürokratie-Abbau vorantreiben?
 
-* Die EU hat aktuell 27 Mitglieder mit 24 Amtssprachen
+* Die EU hat aktuell 27 Mitgliedstaaten und 24 Amtssprachen
 
 Man kann sich vorstellen, wie ineffizient das Verhandeln in Brüssel ist, die EU-Institutionen sind eine moderne Version des Turms zu Babel. Auch das ist ein Grund warum das EU-Recht von so minderer Qualität ist.

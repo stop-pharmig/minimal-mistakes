@@ -35,7 +35,7 @@ Ein fatales Zusammenspiel von Schengen (kein Schutz der nationalen Grenzen und k
 
 * Die EU-Mitgliedschaft ist mit Österreichs immerwährender Neutralität immer weniger vereinbar
 
-Die EU ist zu einem Militärbündnis geworden, in der es eine militärische Beistandspflicht analog zu jener der NATO gibt. Im Ukraine-Krieg ist die EU im Gleichschritt mit der NATO zur Unterstützerin einer Kriegspartei geworden. Die Juristen des Bundesheeres sind sich nicht mehr sicher, ob im Ernstfall die Neutralität oder die Beistandspflicht der EU Vorrang hätte (vgl. https://www.diepresse.com/6278165/oesterreichs-militaer-warnt-vor-neutralitaetsrisiko). 
+Die EU ist zu einem Militärbündnis geworden, in der es eine militärische Beistandspflicht analog zu jener der NATO gibt. Im Ukraine-Krieg ist die EU im Gleichschritt mit der NATO zur Unterstützerin einer Kriegspartei geworden. Die Juristen des Bundesheeres sind sich nicht mehr sicher, ob im Ernstfall die Neutralität oder die Beistandspflicht der EU Vorrang hätte (vgl. [Österreichs Militär warnt vor "Neutralitätsrisiko"](https://www.diepresse.com/6278165/oesterreichs-militaer-warnt-vor-neutralitaetsrisiko)). 
 
 * Deindustrialisierung und Wohlstandsverlust
 
