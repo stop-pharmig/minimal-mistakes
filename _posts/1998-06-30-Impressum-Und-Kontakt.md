@@ -2,7 +2,6 @@
 layout: single
 title: Impressum und Kontakt
 permalink: impressum.html
-topmenu: false
 author: ÖXIT
 keywords: Österreich, Demokratie
 pdfa: true
@@ -12,6 +11,8 @@ colorlinks: true
 linkcolor: red
 pagenumbering: location=
 author_profile: false
+topmenu: false
+pagination: false
 ---
 
 Für den Inhalt verantwortlich:<br />
