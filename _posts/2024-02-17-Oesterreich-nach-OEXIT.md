@@ -15,13 +15,13 @@ author_profile: false
 
 # Zukunft Österreichs nach dem ÖXIT
 
-Infolge des Außenkrafttretens des EU-Rechts würde der ÖXIT manche Probleme unmittelbar lösen. In anderen Bereich würden wir Dank Wiedererlangung der nationalen Selbstbestimmung der Möglichkeit bekommen, eine bessere Politik zu machen. Österreich könnte in allen Politik-Bereichen wieder machen, was es für richtig hält und die EU könnte uns nichts mehr aufzwingen – frei statt fremdbestimmt!
+Infolge des Außenkrafttretens des EU-Rechts würde der ÖXIT manche Probleme unmittelbar lösen. In anderen Bereichen würden wir Dank Wiedererlangung der nationalen Selbstbestimmung der Möglichkeit bekommen, eine bessere Politik zu machen. Österreich könnte in allen Politik-Bereichen wieder machen, was es für richtig hält und die EU könnte uns nichts mehr aufzwingen – frei statt fremdbestimmt!
 
 Hier die Themenbereiche im Einzelnen:
 
 * Wegfall der EU-Vorschriften
 
-Die Vorschriften und Verbote der EU würden mit dem Austritt automatisch wegfallen. Österreichische Gesetze, die auf EU-Richtlinien basieren, können wieder verändert werden.Für Private würde dies weniger Ärger, weniger Bürokratie und mehr Freiheit nach sich ziehen (z.B. Wegfall von Verbrennerverbot und Gebäudeverordnung). Die Unternehmen würden wieder mehr Freiheit erlangen, der bürokratische Aufwand würde reduziert werden und die Energiepreise würden wieder sinken. Die Wettbewerbsfähigkeit der Unternehmen würde gesteigert werden, die Folge wäre ein Wirtschaftsboom, der den Wohlstand erhöhen würde. Österreichische Gesetze, die auf EU-Richtlinien beruhen, würde zwar nicht automatisch wegfallen, Österreich hätte aber nach dem Öxit die Freiheit diese zu ändern oder abzuschaffen.
+Die Vorschriften und Verbote der EU würden mit dem Austritt automatisch wegfallen. Österreichische Gesetze, die auf EU-Richtlinien basieren, können wieder verändert werden. Für Private würde dies weniger Ärger, weniger Bürokratie und mehr Freiheit nach sich ziehen (z.B. Wegfall von Verbrennerverbot und Gebäudeverordnung). Die Unternehmen würden wieder mehr Freiheit erlangen, der bürokratische Aufwand würde reduziert werden und die Energiepreise würden wieder sinken. Die Wettbewerbsfähigkeit der Unternehmen würde gesteigert werden, die Folge wäre ein Wirtschaftsboom, der den Wohlstand erhöhen würde. Österreichische Gesetze, die auf EU-Richtlinien beruhen, würde zwar nicht automatisch wegfallen, Österreich hätte aber nach dem Öxit die Freiheit diese zu ändern oder abzuschaffen.
 
 * Grenzschutz / Asyl / Abschiebungen
     * Wir dürften wieder unsere Grenzen schützen und illegale Migranten an der Grenze abweisen.

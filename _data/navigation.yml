@@ -1,14 +1,14 @@
 # main links
 main:
   - title: EU-Wahl 2024
-    url: /EU2024.html
+    url: {{site.url}}{{site.baseurl}}/EU2024.html
   - title: Über uns
-    url: /ueber.html
+    url: {{site.url}}{{site.baseurl}}/ueber.html
   - title: Ziele
-    url: /ziele.html
+    url: {{site.url}}{{site.baseurl}}/ziele.html
   - title: Medien
-    url: /medien.html
+    url: {{site.url}}{{site.baseurl}}/medien.html
   - title: Unterstützen
-    url: /unterstuetzen.html
+    url: {{site.url}}{{site.baseurl}}/unterstuetzen.html
   - title: Kontakt
-    url: /impressum.html
+    url: {{site.url}}{{site.baseurl}}/impressum.html
