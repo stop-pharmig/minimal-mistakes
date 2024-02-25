@@ -34,7 +34,7 @@ Die Vorschriften und Verbote der EU würden mit dem Austritt automatisch wegfall
 
 ### Währung und Bargeld
 
-Wir bekommen wir eine wertstabile österreichische Währung, die Inflation würde sinken.Der Erhalt des Bargeldes wäre wieder besser abgesichert.
+Wir bekommen eine wertstabile österreichische Währung, die Inflation würde sinken. Der Erhalt des Bargeldes wäre wieder besser abgesichert.
 
 ### Die immerwährende Neutralität würde wieder voll hergestellt
 
