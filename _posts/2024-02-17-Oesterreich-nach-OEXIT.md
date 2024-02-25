@@ -1,6 +1,6 @@
 ---
 permalink: Oesterreich-nach-OEXIT.html
-title: Zukunft Österreichs nach dem ÖXIT
+title: Zukunft Österreichs nach dem Öxit
 layout: splash
 author: ÖXIT
 keywords: Österreich, Demokratie, EU, ÖXIT, EFTA
@@ -13,9 +13,9 @@ pagenumbering: location=
 author_profile: false
 ---
 
-# Zukunft Österreichs nach dem ÖXIT
+# Zukunft Österreichs nach dem Öxit
 
-Infolge des Außenkrafttretens des EU-Rechts würde der ÖXIT manche Probleme unmittelbar lösen. In anderen Bereichen würden wir Dank Wiedererlangung der nationalen Selbstbestimmung der Möglichkeit bekommen, eine bessere Politik zu machen. Österreich könnte in allen Politik-Bereichen wieder machen, was es für richtig hält und die EU könnte uns nichts mehr aufzwingen – frei statt fremdbestimmt!
+Infolge des Außenkrafttretens des EU-Rechts würde der Öxit manche Probleme unmittelbar lösen. In anderen Bereichen würden wir Dank Wiedererlangung der nationalen Selbstbestimmung der Möglichkeit bekommen, eine bessere Politik zu machen. Österreich könnte in allen Politik-Bereichen wieder machen, was es für richtig hält und die EU könnte uns nichts mehr aufzwingen – frei statt fremdbestimmt!
 
 Hier die Themenbereiche im Einzelnen:
 

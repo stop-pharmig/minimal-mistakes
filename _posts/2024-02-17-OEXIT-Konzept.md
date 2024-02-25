@@ -13,7 +13,7 @@ pagenumbering: location=
 author_profile: false
 ---
 
-# Unser ÖXIT-Konzept
+# Unser Öxit-Konzept
 
 ### Wirtschaftliche Rahmenbedingungen
 
