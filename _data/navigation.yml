@@ -6,6 +6,8 @@ main:
     url: /ueber.html
   - title: Ziele
     url: /ziele.html
+  - title: Unterstützen
+    url: /unterstuetzen.html
   - title: Medien
     url: /medien.html
   - title: Kontakt
