@@ -15,11 +15,11 @@ author_profile: false
 
 # Unser ÖXIT-Konzept
 
-* Wirtschaftliche Rahmenbedingungen
+### Wirtschaftliche Rahmenbedingungen
 
 Für eine kleine, offene Volkswirtschaft wie Österreich ist der Handel mit Waren und Dienstleistungen mit anderen Staaten von großer Bedeutung. Ohne Abschluss von spezifischen Freihandelsverträgen erfolgt der Rahmen auf Basis der Regeln der Welthandelsorganisation (WTO), das betrifft beispielsweise den Handel mit Österreichs zweitgrößtem Exportmarkt, der USA. Zwecks Erleichterung und Vertiefung der Handelsbeziehungen schließen Staaten Freihandelsverträge auf bilateraler Basis ab. So hat z.B. Großbritannien im Zuge des Brexits Freihandelsverträge mit einer Vielzahl von Staaten abgeschlossen. Zusätzlich gibt es Handelsorganisationen, deren Regeln dafür sorgen, dass die Mitgliedstaaten der Organisation untereinander besonders ungehindert handeln können, hinzukommt, dass diese Organisationen für ihre Mitglieder Freihandelsverträge mit Drittstaaten abschließen. In Europa gibt es zwei solcher Handelsorganisationen, die EU und die EFTA. Derzeit ist die EU mit 27 Mitgliedern die größere Organisation, während die EFTA nur vier Mitglieder hat (Schweiz, Liechtenstein, Norwegen, Island). Bis 1973 hatte die EFTA übrigens mehr Mitglieder als die EU, d.h. die Mitgliederzahlen von Handelsorganisationen steigen und sinken. Österreich war von 1960 bis 1994 Mitglied der EFTA und ist 1995 der EU beigetreten. Die EFTA ist eine Handelsorganisation souveräner Staaten, keine politische Union, die Souveränität der Mitgliedstaaten wird nicht begrenzt, so steht es den Mitgliedstaaten auch frei, bilaterale Handelsverträge mit Drittstaaten abzuschließen. Die EU ist nicht nur eine Handelsorganisation, sondern auch eine immer engere und beengendere politische Union, die die Souveränität der Mitgliedstaaten immer stärker aushöhlt. EU-Mitgliedstaaten dürfen beispielsweise keine bilateralen Handelsverträge mit Drittstaaten abschließen, der Abschluss von Handelsverträgen ist das alleinige Privileg der EU.
 
-* Wie es andere Länder machen
+### Wie es andere Länder machen
 
 Im Verhältnis zur EU haben diejenigen europäischen bzw. europäisch geprägten Staaten, die nicht EU-Mitglieder sind, unterschiedliche Modelle gewählt. Hier präsentieren wir exemplarisch vier Modelle, alle vier wären für Österreich besser als die derzeitige EU-Mitgliedschaft:
 
