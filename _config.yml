@@ -133,7 +133,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: /assets/images/2024-02-25-Twitter-Logo.svg
       # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
