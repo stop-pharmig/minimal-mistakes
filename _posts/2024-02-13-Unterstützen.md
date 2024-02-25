@@ -14,7 +14,7 @@ author_profile: false
 title: Unterstützen
 ---
 
-### Unterstützungserklärungen
+### Unterstützen
 
 Unser Wahlkampf für die EU-Wahl wird durch Beiträge der einzelnen Bündnispartner finanziert.
 Wir ersuchen diese entsprechend mit Spenden zu unterstützen:
