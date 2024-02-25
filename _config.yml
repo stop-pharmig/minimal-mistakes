@@ -150,8 +150,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: Telegram
-      icon: {{site.url}}{{site.baseurl}}/assets/images/Telegram_2019_Logo.svg
+    - label: "Telegram"
+      icon: https://telegram.org/img/website_icon.svg
       url: https://t.me/oexit_me
 
 
