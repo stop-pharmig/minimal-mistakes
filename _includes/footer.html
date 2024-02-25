@@ -7,7 +7,7 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><img url="{{ link.icon }}" aria-hidden="true" alt= {{ link.label }}></img></a></li>
+          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><img src="{{ link.icon }}" aria-hidden="true" alt= {{ link.label }} width = "5%"></img></a></li>
         {% endif %}
       {% endfor %}
     {% endif %}
