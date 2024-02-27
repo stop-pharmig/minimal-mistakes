@@ -134,10 +134,10 @@ footer:
   links:
     - label: "Twitter"
       icon: /assets/images/2024-02-25-Twitter-Logo-white.svg
-      # url:
+      url: https://twitter.com/OexitEUAustritt
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/profile.php?id=61556510595971
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
