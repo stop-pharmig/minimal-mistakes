@@ -136,7 +136,7 @@ footer:
       icon: https://oexit-me.github.io/minimal-mistakes/assets/images/2024-02-25-Twitter-Logo-white.svg
       url: https://twitter.com/OexitEUAustritt
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg
       url: https://www.facebook.com/profile.php?id=61556510595971
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
