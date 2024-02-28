@@ -21,8 +21,8 @@ title_separator          : " "
 subtitle                 : " "
 name                     : "ÖXIT"
 description              : "EU-AUSTRITT FÜR ÖSTERREICH"
-url                      : https://oexit-me.github.io
-baseurl                  : /minimal-mistakes
+url                      : https://oexit.me
+baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/2024-02-15-ÖXIT-Logo-full-optimiert.svg
 logo                     : /assets/images/2024-02-15-ÖXIT-Logo-full-optimiert.svg
@@ -133,7 +133,7 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: https://oexit-me.github.io/minimal-mistakes/assets/images/2024-02-25-Twitter-Logo-white.svg
+      icon: https://oexit.me/assets/images/2024-02-25-Twitter-Logo-white.svg
       url: https://twitter.com/OexitEUAustritt
     - label: "Facebook"
       icon: https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg
