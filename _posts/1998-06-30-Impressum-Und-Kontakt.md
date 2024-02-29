@@ -29,6 +29,6 @@ Beim Zugriff auf manche Teildienste unserer Website werden zusätzliche personen
 
 ### Kontakt
 
-Durch die Verwendung des unten einebundenen Kontaktformulars stimmen Sie der Weiterleitung Ihrer personenbezogenen Daten an Typeform und über Typeform in unser Kontaktmanagement zu: Wenn wir Ihre Kontaktdaten nicht übermitteln und speichern können, können wir mit Ihnen nicht in Kontakt treten!
+Durch die Verwendung des unten eingebundenen Kontaktformulars stimmen Sie der Weiterleitung Ihrer personenbezogenen Daten an Typeform und über Typeform in unser Kontaktmanagement zu: Wenn wir Ihre Kontaktdaten nicht übermitteln und speichern können, können wir mit Ihnen nicht in Kontakt treten!
 
 {% raw %} <div data-tf-live="01HPXMXNWAF7B20DBKBB4V06W1"></div><script src="//embed.typeform.com/next/embed.js"></script> {% endraw %}
