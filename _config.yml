@@ -86,8 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
+og_image                 : https://oexit.me/assets/images/2024-02-29-ÖXIT.png
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
