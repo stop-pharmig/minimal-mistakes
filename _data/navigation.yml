@@ -8,6 +8,8 @@ main:
     url: /programm.html
   - title: Unterstützen
     url: /unterstuetzen.html
+  - title: Medienberichte
+    url: /medienberichte.html
   - title: Medien
     url: /medien.html
   - title: Kontakt
