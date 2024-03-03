@@ -16,7 +16,7 @@ title: Medien
 
 # Medienberichte
 
-* [![ORF.at](https://orf.at/mojo/1_4_1/storyserver//news/news/images/target_news-universal.svg){:width="10%"} Austrittsbündnis Öxit will bei EU-Wahl antreten](https://orf.at/stories/3350167/)
+* [![ORF.at](https://orf.at/mojo/1_4_1/storyserver//news/news/images/target_news-universal.svg){:height="line-height"} Austrittsbündnis Öxit will bei EU-Wahl antreten](https://orf.at/stories/3350167/)
 
 
 
