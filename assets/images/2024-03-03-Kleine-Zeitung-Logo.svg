@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="174.022"
+   height="88"
+   viewBox="0 0 174.022 88"
+   aria-hidden="true"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="2024-03-03-Kleine-Zeitung-Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="800px"
+     inkscape:zoom="2.6239612"
+     inkscape:cx="225.61309"
+     inkscape:cy="88.415942"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     height="400px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <rect
+     style="fill:#ffffff;stroke-width:0"
+     id="rect53"
+     width="200"
+     height="100"
+     x="-12.988999"
+     y="-6.0000005" />
+  <g
+     id="g28">
+    <path
+       d="M 174.022,0 H 0 v 88 h 174.022 z"
+       fill="#c50c0e"
+       id="path4" />
+    <path
+       d="m 10.8916,11.7734 h 7.8365 V 23.2481 L 28.4632,11.7734 H 37.756 L 27.0514,23.9362 38.1224,40.058 h -9.4136 l -7.1125,-10.505 -2.8682,3.1903 v 7.3147 h -7.8365 z"
+       fill="#ffffff"
+       id="path6" />
+    <path
+       d="m 41.5967,11.7734 h 7.8364 V 33.19 h 13.6982 v 6.868 H 41.5967 Z"
+       fill="#ffffff"
+       id="path8" />
+    <path
+       d="m 95.011,11.7734 h 7.877 v 28.2847 h -7.877 z m -27.5169,0 H 90.244 v 6.6669 H 75.2499 v 4.2851 h 13.5776 v 6.1798 H 75.2499 v 4.4863 h 15.1946 v 6.6668 H 67.4941 Z"
+       fill="#ffffff"
+       id="path10" />
+    <path
+       d="m 108.465,11.7734 h 7.313 l 11.634,14.9511 V 11.7734 h 7.756 V 40.058 h -6.867 L 116.22,24.544 v 15.514 h -7.755 z"
+       fill="#ffffff"
+       id="path12" />
+    <path
+       d="m 140.585,11.7734 h 22.745 v 6.6668 h -14.989 v 4.2851 h 13.573 v 6.1797 h -13.573 v 4.4862 h 15.19 v 6.6668 h -22.946 z"
+       fill="#ffffff"
+       id="path14" />
+    <path
+       d="M 10.3574,74.1556 25.7085,50.6789 H 10.9249 v -2.7482 h 18.7018 v 2.0601 L 14.2756,73.4674 h 15.3511 v 2.7482 H 10.3574 Z"
+       fill="#ffffff"
+       id="path16" />
+    <path
+       d="m 57.9092,47.9307 h 3.0291 v 28.2846 h -3.0291 z m -22.7451,0 h 17.2497 v 2.7881 H 38.193 v 9.8619 h 12.7646 v 2.7437 H 38.193 V 73.4271 H 52.615 V 76.215 H 35.1641 Z"
+       fill="#ffffff"
+       id="path18" />
+    <path
+       d="M 73.6239,50.7582 H 65.707 v -2.8285 h 18.9077 v 2.8285 h -7.9572 v 25.456 h -3.0336 z"
+       fill="#ffffff"
+       id="path20" />
+    <path
+       d="M 89.2246,65.6678 V 47.9326 h 3.0288 v 17.655 c 0,5.3349 2.7075,8.2843 7.1528,8.2843 4.3208,0 7.0678,-2.7881 7.0678,-8.164 V 47.9326 h 3.03 v 17.5741 c 0,7.2748 -4.079,11.1531 -10.178,11.1531 -6.0227,0 -10.1014,-3.8783 -10.1014,-10.992 z"
+       fill="#ffffff"
+       id="path22" />
+    <path
+       d="m 115.414,47.9307 h 2.869 l 14.788,22.2614 V 47.9307 h 2.989 v 28.2844 h -2.547 l -15.15,-22.7886 v 22.7886 h -2.949 z"
+       fill="#ffffff"
+       id="path24" />
+    <path
+       d="m 141.504,62.2347 v -0.2814 c 0,-8.204 5.169,-14.424 12.603,-14.424 3.677,0 6.143,1.0499 8.565,3.0298 l -1.818,2.4216 c -1.738,-1.5323 -3.758,-2.6229 -6.827,-2.6229 -5.37,0 -9.373,4.8481 -9.373,11.5955 v 0.2012 c 0,7.1088 3.842,11.716 9.654,11.716 2.427,0 4.647,-0.8893 6.103,-2.0198 v -7.9582 h -7.072 v -2.7076 h 9.98 v 12.1179 c -2.18,1.783 -5.374,3.3156 -9.131,3.3156 -7.717,-10e-5 -12.684,-5.8578 -12.684,-14.3837 z"
+       fill="#ffffff"
+       id="path26" />
+  </g>
+</svg>

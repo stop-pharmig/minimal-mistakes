@@ -20,5 +20,6 @@ title: Medien
 
 * [![derStandard.at](https://upload.wikimedia.org/wikipedia/commons/7/73/DerStandard.at_Logo.svg){:height="line-height"} 2024-02-29 Öxit-Bündnis will ins EU-Parlament](https://www.derstandard.at/story/3000000209555/oexit-buendnis-will-ins-eu-parlament-eu-sei-ein-undemokratisches-konstrukt?ref=rss)
 
+* [![Kleine Zeitung]({{site.url}}{{site.baseurl}}/assets/images/2024-03-03-Kleine-Zeitung-Logo.svg){:height="line-height"} 2024-02-29 Öxit-Bündnis von Kleinstparteien will bei EU-Wahl antreten](https://www.kleinezeitung.at/politik/innenpolitik/18228841/oexit-buendnis-von-kleinstparteien-will-bei-eu-wahl-antreten)
 
 
