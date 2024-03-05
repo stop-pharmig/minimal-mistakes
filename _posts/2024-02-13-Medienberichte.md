@@ -17,10 +17,10 @@ title: Medien
 # Medienberichte
 
 * [![ORF.at](https://orf.at/mojo/1_4_1/storyserver//news/news/images/target_news-universal.svg){:height="line-height"} 2024-02-29 Austrittsbündnis Öxit will bei EU-Wahl antreten](https://orf.at/stories/3350167/)
-
 * [![derStandard.at](https://upload.wikimedia.org/wikipedia/commons/7/73/DerStandard.at_Logo.svg){:height="line-height"} 2024-02-29 Öxit-Bündnis will ins EU-Parlament](https://www.derstandard.at/story/3000000209555/oexit-buendnis-will-ins-eu-parlament-eu-sei-ein-undemokratisches-konstrukt?ref=rss)
-
 * [![Kronen Zeitung](https://www.krone.at/images/2dcb23c.svg){:height="line-height"} 2024-02-29 EU-Wahl: Austrittsbündnis Öxit will antreten](https://www.krone.at/3273334)
-
 * [![Kleine Zeitung]({{site.url}}{{site.baseurl}}/assets/images/2024-03-03-Kleine-Zeitung-Logo.svg){:height="line-height"} 2024-02-29 Öxit-Bündnis von Kleinstparteien will bei EU-Wahl antreten](https://www.kleinezeitung.at/politik/innenpolitik/18228841/oexit-buendnis-von-kleinstparteien-will-bei-eu-wahl-antreten)
+* [![OE24]({{site.url}}{{site.baseurl}}/assets/images/2024-03-05-OE24-Logo.svg){:height="line-height"} 2024-02-29 Öxit-Partei verlangt Austritt aus der EU](https://www.oe24.at/oesterreich/politik/parteien/oexit-partei-verlangt-austritt-aus-der-eu/587365696)
+
+
 
