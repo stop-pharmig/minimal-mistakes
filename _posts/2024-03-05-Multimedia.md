@@ -16,6 +16,20 @@ title: Multimedia
 
 # Multimedia
 
+### Corona-Gedenktag 16. März 2024
+
+<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
+    <iframe
+        width="640"
+        height="360"
+        src="https://rumble.com/embed/v4h2euc/?pub=31wbp"
+        frameborder="0"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+    >
+    </iframe>
+</div>
+
 ### Anti-EU-Parteien wollen bei EU-Wahl antreten Ö1 Mittagsjournal 29.02.2024
 
 <div>
