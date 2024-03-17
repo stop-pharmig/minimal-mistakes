@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: Impressum Veranstaltungen und Kontakt
+title: Kontakt
 permalink: impressum.html
 author: ÖXIT
 keywords: Österreich, Demokratie
