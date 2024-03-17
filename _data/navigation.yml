@@ -6,6 +6,8 @@ main:
     url: /ueber.html
   - title: Programm
     url: /programm.html
+  - title: Kontakt
+    url: /impressum.html
   - title: Multimedia
     url: /multimedia.html
   - title: Medienberichte
@@ -14,5 +16,4 @@ main:
     url: /medien.html
   - title: Unterstützen
     url: /unterstuetzen.html
-  - title: Kontakt
-    url: /impressum.html
+
