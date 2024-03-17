@@ -10,10 +10,10 @@ main:
     url: /impressum.html
   - title: Multimedia
     url: /multimedia.html
+  - title: Unterstützen
+    url: /unterstuetzen.html
   - title: Medienberichte
     url: /medienberichte.html
   - title: Medien
     url: /medien.html
-  - title: Unterstützen
-    url: /unterstuetzen.html
 
