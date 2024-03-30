@@ -22,6 +22,20 @@ title: Multimedia
     <source src="https://my-tube.tv/wp-content/uploads/2024/03/DD-OEXIT-5Mb.mp4">
 </video>
 
+### EU-Wahl: Neue Liste will Öxit
+
+<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
+    <iframe
+        width="640"
+        height="360"
+        src="https://rumble.com/embed/v4ju3lc/?pub=31wbp"
+        frameborder="0"
+        allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+    >
+    </iframe>
+</div>
+
 ### Corona-Gedenktag 16. März 2024
 
 ![Corona-Gedenktag 16. März 2024]({{site.url}}{{site.baseurl}}/assets/images/2024-03-16-ÖXIT.png){:width="100%"}
