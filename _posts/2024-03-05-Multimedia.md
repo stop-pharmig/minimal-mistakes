@@ -16,6 +16,14 @@ title: Multimedia
 
 # Multimedia
 
+### ÖXIT Bündnis EU-Wahl 2024
+
+<div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
+    <video width="640" controls="controls">
+        <source src="https://my-tube.tv/wp-content/uploads/2024/03/DD-OEXIT-5Mb.mp4">
+    </video>
+</div>
+
 ### Corona-Gedenktag 16. März 2024
 
 ![Corona-Gedenktag 16. März 2024]({{site.url}}{{site.baseurl}}/assets/images/2024-03-16-ÖXIT.png){:width="100%"}
