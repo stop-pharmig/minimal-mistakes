@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="137mm"
+   height="37mm"
+   viewBox="0 0 137 37"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="2024-03-30-Puls24-Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.77504209"
+     inkscape:cx="397.39777"
+     inkscape:cy="458.03964"
+     inkscape:window-width="1920"
+     inkscape:window-height="1044"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="M 21.48,8.745 C 20.03,7.337 18.164,6.622 15.839,6.622 H 4.849 L 0,30.851 h 6.35 l 3.691,-18.416 h 4.984 c 1.345,0 2.294,0.956 2.294,2.207 0,1.493 -1.24,2.901 -2.742,2.901 h -3.92 l -1.168,5.824 h 4.869 c 2.607,0 4.828,-0.904 6.621,-2.765 1.794,-1.86 2.711,-4.036 2.711,-6.454 C 23.7,11.93 22.96,10.154 21.48,8.745 Z M 47.474,6.612 h -6.392 l -2.846,14.232 c -0.605,2.985 -1.94,4.446 -4.39,4.446 -2.45,0 -4.119,-1.345 -3.358,-5.108 L 33.2,6.622 h -6.391 l -2.482,12.393 c -0.209,1.177 -0.428,2.26 -0.428,3.174 0.084,4.53 2.159,6.833 4.682,8.073 1.783,0.883 3.17,1.01 4.682,1.01 6.652,0 9.926,-3.354 11.324,-10.155 L 47.475,6.612 Z m 66.18,1.913 c 0,-1.304 -0.251,-2.502 -0.751,-3.564 l -21.772,19.909 -1.21,5.991 h 4.067 l 15.839,-14.474 c 2.555,-2.354 3.827,-4.972 3.827,-7.862 z M 104.103,6.59 c 1.251,0 2.241,0.8 2.575,1.872 l 5.37,-4.899 A 8.026,8.026 0 0 0 111.141,2.575 C 109.514,1.02 107.377,0 104.749,0 99.734,0 95.792,3.122 94.385,8.85 h 6.809 c 0.573,-1.355 1.626,-2.26 2.909,-2.26 z m -1.147,18.28 -6.548,5.991 h 12.324 L 106.949,24.87 Z M 130.848,37 133.33,24.87 H 116.991 L 137,6.59 h -9.374 l -19.196,17.566 1.992,6.706 H 125.03 L 123.768,37"
+       id="path4"
+       style="fill:#1a2b80;fill-opacity:1" />
+    <path
+       d="m 133.664,23.251 2.773,-13.959 -8.654,7.957 -1.179,6.002 z M 61.999,24.87 H 51.853 l 3.65,-18.258 h -6.392 l -4.848,24.25 H 55.44 L 62,24.87 Z"
+       id="path6"
+       style="fill:#1a2b80;fill-opacity:1" />
+    <path
+       d="m 73.792,12.592 h 7.09 l 1.2,-5.98 h -8.123 c -9.166,0 -10.104,5.886 -10.104,7.715 0,2.186 1.49,5.792 7.497,7.221 1.783,0.42 2.92,1.125 2.69,2.302 -0.198,0.999 -1.2,1.03 -3.16,1.03 h -6.485 l -6.538,5.981 h 12.513 c 9.676,0 10.156,-5.991 10.156,-7.82 0,-1.514 -0.71,-5.571 -7.237,-7.137 -2.346,-0.568 -2.982,-1.43 -2.7,-2.302 0.198,-0.642 0.99,-1.01 3.2,-1.01 z"
+       id="path8"
+       style="fill:#1a2b80;fill-opacity:1" />
+    <path
+       d="m 116.991,24.87 a 3281.381,3281.381 0 0 0 -6.559,5.991 h 7.789 c 1.199,-1.093 5.579,-5.087 6.559,-5.991 z"
+       fill="url(#aqa)"
+       id="path10"
+       style="fill:#1a2b80;fill-opacity:1" />
+  </g>
+</svg>
