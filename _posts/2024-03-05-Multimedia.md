@@ -38,6 +38,8 @@ title: Multimedia
 
 ### Corona-Gedenktag 16. März 2024
 
+![Corona-Gedenktag 16. März 2024]({{site.url}}{{site.baseurl}}/assets/images/2024-03-17-ÖXIT-Oliver-Hoffmann-Hofburg.jpg){:width="100%"}
+
 ![Corona-Gedenktag 16. März 2024]({{site.url}}{{site.baseurl}}/assets/images/2024-03-16-ÖXIT.png){:width="100%"}
 
 <div class="fluid-width-video-wrapper" style="padding-top: 56.25%;">
