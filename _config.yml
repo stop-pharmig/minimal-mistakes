@@ -16,16 +16,16 @@ minimal_mistakes_skin    : contrast # "default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : de
-title                    : ÖXIT
+title                    : Demokratie
 title_separator          : " "
 subtitle                 : " "
-name                     : "ÖXIT"
-description              : "ÖXIT"
-url                      : https://oexit.me
+name                     : "Oliver Hoffmann"
+description              : "demokratie.at"
+url                      : https://demokratie.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/2024-02-15-ÖXIT-Logo-full-optimiert.svg
-logo                     : /assets/images/2024-02-15-ÖXIT-Logo-full-optimiert.svg
+teaser                   : /assets/images/2023-03-31-Tempel.svg
+logo                     : /assets/images/2023-03-31-Tempel.svg
 masthead_title           : " "
 # breadcrumbs            : false
 words_per_minute         : 200
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : https://oexit.me/assets/images/2024-02-29-ÖXIT.png
+og_image                 : https://oexit.me/assets/images/2023-04-08-Demokratie.png
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "ÖXIT"
+  name             : "Oliver Hoffmann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "EU-AUSTRITT FÜR ÖSTERREICH"
+  bio              : "demokratie.at"
   location         : "Wien"
   email            :
   links:
