@@ -2,20 +2,3 @@
 main:
   - title: EU-Wahl 2024
     url: /EU2024.html
-  - title: Über uns
-    url: /ueber.html
-  - title: Programm
-    url: /programm.html
-  - title: Kontakt
-    url: /kontakt.html
-  - title: Unterstützen
-    url: /unterstuetzen.html
-  - title: Multimedia
-    url: /multimedia.html
-  - title: Medienberichte
-    url: /medienberichte.html
-  - title: Medien
-    url: /medien.html
-  - title: Impressum
-    url: /impressum.html
-
