@@ -4,7 +4,7 @@
 <svg
    version="1.1"
    width="1920"
-   height="1080"
+   height="303"
    id="svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    sodipodi:docname="2024-04-27-Austria.svg"
@@ -32,8 +32,8 @@
      id="namedview"
      showgrid="false"
      inkscape:zoom="0.46166427"
-     inkscape:cx="1471.8488"
-     inkscape:cy="696.39351"
+     inkscape:cx="1032.1353"
+     inkscape:cy="356.31954"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -46,7 +46,7 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     height="1080px" />
+     height="303px" />
   <defs
      id="defs">
     <inkscape:path-effect
@@ -279,7 +279,10 @@
   </metadata>
   <g
      id="g1521"
-     transform="translate(-1.9854813e-5,-670.91636)">
+     transform="translate(-1.9854813e-5,-1015.6424)"
+     inkscape:export-filename="/home/oliver/Dokumente/github/demokratie/minimal-mistakes/assets/images/2024-04-27-Austria.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96">
     <path
        inkscape:connector-curvature="0"
        style="fill:#4b0082;fill-opacity:1;stroke:#000000;stroke-width:2.09298;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:9.61905;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
