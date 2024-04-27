@@ -2,6 +2,7 @@
 permalink: /Buergerrechtsbewegung/
 title: Österreichische Bürgerrechtsbewegung
 subtitle: Grundsätze und Ziele
+layout: splash
 author: Oliver Hoffmann
 keywords: Österreich, Bürgerrechte, Menschenrechte
 pdfa: true
