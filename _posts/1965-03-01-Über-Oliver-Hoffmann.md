@@ -51,4 +51,3 @@ Nach dem weitgehenden Versagen der politischen Institutionen in den Covid-Jahren
 2023 eine Initiative zur Aufarbeitung der Covid-Maßnahmen angeregt und mich 2024 an einem Wahlbündnis für die EU-Wahl beteiligt,
 siehe die Übersicht auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022),
 die [Initiative zur Aufarbeitung der Covid-Maßnahmen 2023](/covid) und die [Website des Wahlbündnisses ÖXIT 2024](https://oexit.me/).
-Wer bis hier gelesen hat, findet auch meine Präsentation ["Wem nützt die KI Regulation der EU?" in der Union Souveränität](https://kdrive.infomaniak.com/app/share/661049/852a9d6c-4d37-4605-a4d8-37a168b4c4d4).
