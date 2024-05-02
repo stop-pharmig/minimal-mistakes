@@ -47,9 +47,8 @@ Leider haben die Abgeordneten in ihrer überwiegenden Mehrheit dann sehr deutlic
 dass dieses Parlament seine Funktion als Volksvertretung nicht wahrnimmt und ein Dialog mit diesen Abgeordneten daher nutzlos ist.
 In der Folge habe ich mich der Widerstandsbewegung gegen dieses Regime angeschlossen und zusammen mit verstreuten Dissidenten
 [Grundsätze und Ziele für die Österreichische Bürgerrechtsbewegung](/Buergerrechtsbewegung) formuliert.
-Ende Juli 2022 habe ich dann meine Absicht erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren,
-mit dem erklärten Ziel, eine Bundesregierung ohne jegliche Vertreter der aktuellen Parlamentsparteien anzugeloben,
-siehe mein [Interview mit Max Pucher](https://my-tube.tv/videos/bundesprasidentenwahl-2022-interview-dipl-ing-oliver-hoffmann/)
-und die Übersicht über mein damaliges Angebot an die Österreichischen Wahlberechtigten auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
-Nach dem weitgehenden Versagen der politischen Institutionen in den Covid-Jahren habe ich 2023 eine [Initiative zur Aufarbeitung der Covid-Maßnahmen](/covid) angeregt und mich am [Wahlbündnis ÖXIT](https://oexit.me/) beteiligt.
-Wer bis hier gelesen hat, findet auch meine Präsentation ["Wem nützt die KI Regulation der EU?" in der Union Souveränität](https://kdrive.infomaniak.com/app/share/661049/852a9d6c-4d37-4605-a4d8-37a168b4c4d4)
+Nach dem weitgehenden Versagen der politischen Institutionen in den Covid-Jahren habe ich 2022 meine Bereitschaft erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren,
+2023 eine Initiative zur Aufarbeitung der Covid-Maßnahmen angeregt und mich 2024 an einem Wahlbündnis für die EU-Wahl beteiligt,
+siehe die Übersicht auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022),
+die [Initiative zur Aufarbeitung der Covid-Maßnahmen 2023](/covid) und die [Website des Wahlbündnisses ÖXIT 2024](https://oexit.me/).
+Wer bis hier gelesen hat, findet auch meine Präsentation ["Wem nützt die KI Regulation der EU?" in der Union Souveränität](https://kdrive.infomaniak.com/app/share/661049/852a9d6c-4d37-4605-a4d8-37a168b4c4d4).
