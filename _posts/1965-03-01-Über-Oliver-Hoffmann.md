@@ -50,6 +50,6 @@ Im Frühling 2022 wurden dazu [Grundsätze und Ziele für die Österreichische B
 Im Sommer 2022 habe ich kurzfristig meine Bereitschaft erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren, mit dem erklärten Ziel, eine Bundesregierung ohne jegliche Parteienvertreter zu bilden,
 siehe die Übersicht auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
 2023 habe ich eine [Initiative zur Aufarbeitung der Covid-Maßnahmen 2023](/covid) angeregt.
-Und im Frühling 2024 war ich am [Wahlbündnis für die EU-Wahl 2024](https://oexit.me/) bewteiligt, erneut mit der Kernbotschaft "Es reicht!"
+Und im Frühling 2024 war ich am [Wahlbündnis für die EU-Wahl 2024](https://oexit.me/) beteiligt, erneut mit der Kernbotschaft "Es reicht!"
 Für die Nationalratswahl 2024 schlage ich ein Wahlbündnis mit dem Kernthema "Schutz individueller Freiheit gegen staatliche Willkür" vor, mit dem Neos und/oder Grüne im Parlament ersetzt werden können und damit wieder ein umfassender Grundrechtsschutz im Nationalrat vertreten ist.
 
