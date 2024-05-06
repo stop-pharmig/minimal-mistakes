@@ -43,11 +43,13 @@ wie unlogisch und gleichzeitig gefährlich die Argumentation für die diversen m
 Meine [offizielle Stellungnahme zum "Impfpflichtgesetz" vor der Behandlung im Nationalrat](/Stellungnahme-zu-COVID-19-IG)
 hat dann in der Feststellung kulminiert:
 "Jeder einzelne Abgeordnete, der gegen dieses Gesetz stimmt, wird ein Hinweis darauf sein, dass der Österreichische Nationalrat überhaupt noch seine Funktion als Volksvertretung wahrnehmen kann oder soll."
-Leider haben die Abgeordneten in ihrer überwiegenden Mehrheit dann sehr deutlich gemacht,
+Leider sind die Abgeordneten ihrer Pflicht zur Konsultation mit ihren Wahlberechtigten nicht nachgekommen und haben in der Folge in ihrer überwiegenden Mehrheit sehr deutlich gemacht,
 dass dieses Parlament seine Funktion als Volksvertretung nicht wahrnimmt und ein Dialog mit diesen Abgeordneten daher nutzlos ist.
-In der Folge habe ich mich der Widerstandsbewegung gegen dieses Regime angeschlossen und zusammen mit verstreuten Dissidenten
-[Grundsätze und Ziele für die Österreichische Bürgerrechtsbewegung](/Buergerrechtsbewegung) formuliert.
-Nach dem weitgehenden Versagen der politischen Institutionen in den Covid-Jahren habe ich 2022 meine Bereitschaft erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren,
-2023 eine Initiative zur Aufarbeitung der Covid-Maßnahmen angeregt und mich 2024 an einem Wahlbündnis für die EU-Wahl beteiligt,
-siehe die Übersicht auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022),
-die [Initiative zur Aufarbeitung der Covid-Maßnahmen 2023](/covid) und die [Website des Wahlbündnisses ÖXIT 2024](https://oexit.me/).
+In der Folge habe ich meine Ablehnung dieser Parteienoligarchie auf unterschiedliche Weise deutlich zum Ausdruck gebracht und auf vielfache Art darauf hingearbeitet, die verstreuten Dissidenten zu einer geeinten Widerstandsbewegungen zusammenzuschließen.
+Im Frühling 2022 wurden dazu [Grundsätze und Ziele für die Österreichische Bürgerrechtsbewegung](/Buergerrechtsbewegung) formuliert.
+Im Sommer 2022 habe ich kurzfristig meine Bereitschaft erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren, mit dem erklärten Ziel, eine Bundesregierung ohne jegliche Parteienvertreter zu bilden,
+siehe die Übersicht auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
+2023 habe ich eine [Initiative zur Aufarbeitung der Covid-Maßnahmen 2023](/covid) angeregt.
+Und im Frühling 2024 war ich am [Wahlbündnis für die EU-Wahl 2024](https://oexit.me/) bewteiligt, erneut mit der Kernbotschaft "Es reicht!"
+Für die Nationalratswahl 2024 schlage ich ein Wahlbündnis mit dem Kernthema "Schutz individueller Freiheit gegen staatliche Willkür" vor, mit dem Neos und/oder Grüne im Parlament ersetzt werden können und damit wieder ein umfassender Grundrechtsschutz im Nationalrat vertreten ist.
+
