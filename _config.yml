@@ -131,6 +131,12 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Substack"
+      icon: https://camo.githubusercontent.com/07c945ab98cdac13e3bf2f7011e8a9059ed973c7c03689e4e3ec61cd2af4eb7d/68747470733a2f2f737562737461636b2e636f6d2f696d672f737562737461636b2e706e67
+      url: https://olvrhffmnn.substack.com
+    - label: "Telegram"
+      icon: https://telegram.org/img/website_icon.svg
+      url: https://t.me/olvrhffmnn
     - label: "Twitter"
       icon: https://demokratie.at/assets/images/2024-07-09-X-Logo.svg
       url: https://twitter.com/olvrhffmnn
@@ -140,12 +146,6 @@ footer:
     - label: "Instagram"
       icon: https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg
       # url: https://www.instagram.com/olvrhffmnn/
-    - label: "Telegram"
-      icon: https://telegram.org/img/website_icon.svg
-      url: https://t.me/olvrhffmnn
-    - label: "Substack"
-      icon: https://camo.githubusercontent.com/07c945ab98cdac13e3bf2f7011e8a9059ed973c7c03689e4e3ec61cd2af4eb7d/68747470733a2f2f737562737461636b2e636f6d2f696d672f737562737461636b2e706e67
-      url: https://olvrhffmnn.substack.com
 
 # Reading Files
 include:
