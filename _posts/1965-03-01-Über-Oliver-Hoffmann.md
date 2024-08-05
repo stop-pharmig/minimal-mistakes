@@ -50,6 +50,7 @@ Im Frühling 2022 wurden dazu [Grundsätze und Ziele für die Österreichische B
 Im Sommer 2022 habe ich kurzfristig meine Bereitschaft erklärt, bei der Wahl zum Österreichischen Bundespräsidenten zu kandidieren, mit dem erklärten Ziel, eine Bundesregierung ohne jegliche Parteienvertreter zu bilden,
 siehe die Übersicht auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffmann2022).
 Im Frühling 2024 war ich am [Wahlbündnis für die EU-Wahl 2024](https://oexit.me/) beteiligt, erneut mit der Kernbotschaft "Es reicht!"
+
 Die Kandidatur von [Liste Madeleine Petrovic](https://liste-petrovic.at) und [MFG Österreich – Menschen Freiheit Grundrechte](https://www.mfg-oe.at) bei der Nationalratswahl 2024 habe ich mit einer 
 [Entscheidungshilfe in Form eines Interviews](https://open.substack.com/pub/olvrhffmnn/p/covid-manahmen-kritikern-eine-stimme?r=1nq95d&utm_campaign=post&utm_medium=web) unterstützt.
 Selbst werde ich bei der Nationalratswahl 2024 nicht kandidieren, aber 2025 kommt ja wieder die Wiener Landtagswahl...
