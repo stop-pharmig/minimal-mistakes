@@ -24,8 +24,8 @@ description              : "demokratie.at"
 url                      : https://demokratie.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/2023-03-31-Tempel.svg
-logo                     : /assets/images/2023-03-31-Tempel.svg
+teaser                   : /assets/images/2024-10-05-DEMO.svg
+logo                     : /assets/images/2024-10-05-DEMO.svg
 masthead_title           : " "
 # breadcrumbs            : false
 words_per_minute         : 200
