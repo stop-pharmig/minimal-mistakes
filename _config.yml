@@ -140,6 +140,9 @@ footer:
     - label: "Twitter"
       icon: https://demokratie.at/assets/images/2024-07-09-X-Logo.svg
       url: https://twitter.com/olvrhffmnn
+    - label: "Youtube"
+      icon: https://demokratie.at/assets/images/2024-10-10-youtube.svg
+      url: https://www.youtube.com/@olvrhffmnn
     - label: "Facebook"
       icon: https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg
       # url: https://www.facebook.com/oexitme
