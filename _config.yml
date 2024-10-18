@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : https://oexit.me/assets/images/2023-04-08-Demokratie.png
+og_image                 : /assets/images/2024-10-05-DEMO.svg
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
