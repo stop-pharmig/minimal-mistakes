@@ -52,4 +52,4 @@ siehe die Übersicht auf der [Seite zur Bundespräsidentschaftswahl 2022](/hoffm
 Im Frühling 2024 habe ich mich mit dem [Wahlbündnis ÖXIT](https://oexit.me/) um eine Kandidatur bei der EU-Wahl beworben, erneut mit der Kernbotschaft "Es reicht!".
 Die Kandidatur von [Liste Madeleine Petrovic](https://liste-petrovic.at) und [MFG Österreich – Menschen Freiheit Grundrechte](https://www.mfg-oe.at) bei der Nationalratswahl 2024 habe ich mit einer 
 [Entscheidungshilfe in Form eines Interviews](https://open.substack.com/pub/olvrhffmnn/p/covid-manahmen-kritikern-eine-stimme?r=1nq95d&utm_campaign=post&utm_medium=web) unterstützt.
-Nach der Nationsratswahl 2024 habe ich die Parlamentarische Bürgerinitiative zur Entlassung der Bundesregierung Nehammer-Kogler gestartet.
+Nach der Nationalratswahl 2024 habe ich die Parlamentarische Bürgerinitiative zur Entlassung der Bundesregierung Nehammer-Kogler gestartet.
