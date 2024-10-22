@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="669.74091"
+   height="95.77916"
+   viewBox="0 0 177.20228 25.34157"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="2024-10-23-progress-60-website.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.54803752"
+     inkscape:cx="594.84978"
+     inkscape:cy="118.60502"
+     inkscape:window-width="1920"
+     inkscape:window-height="1056"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     units="px"
+     width="800px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-17.232191,-93.16255)">
+    <path
+       style="fill:#000000;stroke-width:0.352778"
+       d="m 17.251674,105.93539 c -0.0628,-8.144713 0.0272,-12.615683 0.25584,-12.702183 0.19402,-0.0734 40.040265,-0.0928 88.547216,-0.0431 l 88.19445,0.0904 0.0926,12.611813 0.0927,12.6118 H 105.89153 17.348604 Z m 174.704446,-0.1313 V 95.573537 H 105.70195 19.447785 v 10.230553 10.23056 h 86.254165 86.25417 z m -170.038885,0.007 v -8.473543 h 7.767489 7.767495 l -0.0946,8.378473 -0.0946,8.37847 -7.672915,0.0951 -7.672909,0.0951 z m 17.286104,-0.007 v -8.466663 h 7.58472 7.58472 v 8.466663 8.46667 h -7.58472 -7.58472 z m 16.93333,0 v -8.466663 h 7.76111 7.76111 v 8.466663 8.46667 h -7.76111 -7.76111 z m 17.28611,0.007 v -8.473543 h 7.7675 7.7675 l -0.0946,8.378473 -0.0946,8.37847 -7.67292,0.0951 -7.67292,0.0951 z m 17.28611,-0.007 v -8.466663 h 7.58473 7.584721 v 8.466663 8.46667 h -7.584721 -7.58473 z m 16.933341,0 v -8.466663 h 7.76111 7.76111 v 8.466663 8.46667 h -7.76111 -7.76111 z"
+       id="path67"
+       sodipodi:nodetypes="ssscccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  </g>
+</svg>
