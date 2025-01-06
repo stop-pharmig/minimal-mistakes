@@ -137,9 +137,9 @@ footer:
     - # label: "Twitter"
       # icon: https://demokratie.at/assets/images/2024-07-09-X-Logo.svg
       # url: https://twitter.com/olvrhffmnn
-    - label: "Substack"
-      icon: https://demokratie.at/assets/images/2024-10-10-substack.svg
-      url: https://medunioberwart.substack.com
+    - # label: "Substack"
+      # icon: https://demokratie.at/assets/images/2024-10-10-substack.svg
+      # url: https://medunioberwart.substack.com
     - # label: "Telegram"
       # icon: https://telegram.org/img/website_icon.svg
       # url: https://t.me/olvrhffmnn
