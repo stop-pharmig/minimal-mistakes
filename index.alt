@@ -1,0 +1,38 @@
+---
+author: Medizinische Universität Oberwart
+keywords: Medizinische Universität Oberwart
+pdfa: true
+papersize: a4
+lang: de
+colorlinks: true
+linkcolor: red
+pagenumbering: location=
+layout: splash
+author_profile: false
+read_time: false
+comments: false
+related: false
+title: Medizinische Universität Oberwart
+---
+<br>
+<br>
+<br>
+<a href="https://medunioberwart.atlassian.net">
+  <img src="/assets/images/2024-12-25-Jira-Logo.svg" alt="Jira" width="50%">
+  <img src="/assets/images/Atlassian_Confluence_2017_logo.svg" alt="Jira" width="50%">
+</a>
+<br>
+<br>
+<br>
+<a href="https://medunioberwart.odoo.com">
+  <img src="/assets/images/odoo_logo.svg" alt="Odoo" width="50%">
+</a>
+<br>
+<br>
+<br>
+<a href="https://medunioberwart.moodlecloud.com">
+  <img src="/assets/images/Moodle-logo.svg" alt="Moodle" width="50%">
+</a>
+<br>
+<br>
+<br>
