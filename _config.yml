@@ -16,12 +16,12 @@ minimal_mistakes_skin    : sunrise # "default", "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : de
-title                    : Ontore
+title                    : Nein zu IGV
 title_separator          : " "
 subtitle                 : " "
-name                     : "Ontore"
+name                     : "Nein zu IGV"
 description              : ""
-url                      : https://ontore.eu
+url                      : https://neinzuigv.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/2024-12-15-Meduniburgenland-Leonardo-Vetruvian-Man-Sonne.svg
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ontore"
+  name             : "Nein zu IGV"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ontore.eu"
+  bio              : "neinzuigv.at"
   location         : "Austria"
   email            :
   links:
