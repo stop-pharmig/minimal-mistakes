@@ -25,7 +25,7 @@ url                      : https://neinzuigv.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/2025-09-23-IGV.png
-logo                     : /assets/images/2025-08-21-Schlange.png
+logo                     : ""
 masthead_title           : " "
 # breadcrumbs            : false
 words_per_minute         : 200
