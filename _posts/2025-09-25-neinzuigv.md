@@ -1,5 +1,6 @@
 ---
 permalink: neinzuigv.html
+title: "IT Projekte"
 layout: splash
 author_profile: false
 read_time: false
