@@ -1,12 +1,9 @@
 ---
 permalink: neinzuigv.html
-title: " "
+title: "Initiative"
 layout: splash
-author_profile: false
-read_time: false
-comments: false
-related: false
 header:
-  overlay_image: "/assets/images/neinzuigvhero.png"
-  cta_label: " "
+  overlay_image: "/assets/images/Nein-zu-den-IGV-der-WHO.png"
+  cta_label: "Wer ist das?"
+  cta_url: /impressum.html
 ---
