@@ -6,5 +6,5 @@ read_time: false
 comments: false
 related: false
 header:
-  overlay_image: "/assets/images/neinzuigv-logo.png"
+  overlay_image: "/assets/images/2025-09-25-neinzuigv.png"
 ---
