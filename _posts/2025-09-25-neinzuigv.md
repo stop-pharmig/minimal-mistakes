@@ -7,4 +7,5 @@ comments: false
 related: false
 header:
   overlay_image: "/assets/images/neinzuigvhero.png"
+  cta_label: "für Sie"
 ---
