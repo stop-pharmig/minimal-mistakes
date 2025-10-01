@@ -4,9 +4,9 @@ main:
     url: /
   - title: "Wer wir sind"
     url: /wir
-  - title: "Die Internationalen Gesundheitsvorschriften"
-    url: /igv
   - title: "Die WHO"
     url: /who
+  - title: "Die Internationalen Gesundheitsvorschriften"
+    url: /igv
   - title: "Der Pandemievertrag"
     url: /pandemievertrag
