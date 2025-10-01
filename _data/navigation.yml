@@ -1,10 +1,12 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Wer wir sind"
     url: /wir
   - title: "Die Internationalen Gesundheitsvorschriften"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /igv
   - title: "Die WHO"
-    url: /year-archive/
+    url: /who
   - title: "Der Pandemievertrag"
-    url: /collection-archive/
+    url: /pandemievertrag
