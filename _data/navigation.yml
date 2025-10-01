@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Wer wir sind"
-    url: /wir/
+    url: /wir
   - title: "Die Internationalen Gesundheitsvorschriften"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Die WHO"
