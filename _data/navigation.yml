@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Initiative"
+  - title: "Wer wir sind"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "IGV"
+  - title: "Internationale Gesundheitsvorschriften"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "WHO"
     url: /year-archive/
