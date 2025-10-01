@@ -1,3 +1,10 @@
 # main links
 main:
-
+  - title: "Initiative"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "IGV"
+    url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "WHO"
+    url: /year-archive/
+  - title: "Pandemievertrag"
+    url: /collection-archive/
