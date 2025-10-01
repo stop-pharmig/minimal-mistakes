@@ -2,9 +2,9 @@
 main:
   - title: "Wer wir sind"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Internationale Gesundheitsvorschriften"
+  - title: "Die Internationalen Gesundheitsvorschriften"
     url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "WHO"
+  - title: "Die WHO"
     url: /year-archive/
-  - title: "Pandemievertrag"
+  - title: "Der Pandemievertrag"
     url: /collection-archive/
