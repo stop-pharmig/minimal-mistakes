@@ -1,0 +1,9 @@
+---
+permalink: pandemievertrag.html
+title: " "
+layout: splash
+header:
+  overlay_image: "/assets/images/Nein-zu-den-IGV-der-WHO.png"
+  cta_label: " "
+  cta_url: " "
+---
