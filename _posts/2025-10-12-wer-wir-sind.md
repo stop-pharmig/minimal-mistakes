@@ -9,12 +9,11 @@ layout: splash
 # Wer wir sind
 
 [![GGI](/assets/images/2025-10-05-GGI-Logo.svg){:style="height:5em;padding:1em;"}](https://ggi-initiative.at/)
-<a href="https://ggi-initiative.at/"><img src="/assets/images/2025-10-05-GGI-Logo.svg" style="height:5em;padding:1em;"></a>
-<a href="https://www.mfg-oe.at/"><img src="/assets/images/2025-10-05-MFG-Logo.svg" style="height:5em"></a>
-<a href="https://demokratie.at/"><img src="/assets/images/2025-10-06-demokratie-logo.svg" style="height:5em"></a>
-<a href="https://www.die-eiche.at/"><img src="/assets/images/2025-10-06-Eiche-Logo.svg" style="height:5em"></a>
-<a href="https://respekt.plus/"><img src="/assets/images/2025-10-05-Respekt-Logo.svg" style="height:5em"></a>
-<a href="https://www.gesundheit-oesterreich.at/"><img src="/assets/images/2025-10-05-Gesundheit-Logo.svg" style="height:5em"></a>
+[![MFG](/assets/images/2025-10-05-MFG-Logo.svg){:style="height:5em;padding:1em;"}](https://www.mfg-oe.at/)
+[![Demokratie](/assets/images/2025-10-06-demokratie-logo.svg){:style="height:5em;padding:1em;"}](https://demokratie.at/)
+[![Eiche](/assets/images/2025-10-06-Eiche-Logo.svg){:style="height:5em;padding:1em;"}](https://www.die-eiche.at/)
+[![Respekt](/assets/images/2025-10-05-Respekt-Logo.svg){:style="height:5em;padding:1em;"}](https://respekt.plus/)
+[![Gesundheit](/assets/images/2025-10-05-Gesundheit-Logo.svg){:style="height:5em;padding:1em;"}](https://ggi-initiative.at/)
 
 ### Unterstützung der Initiative
 
