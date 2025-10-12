@@ -8,19 +8,19 @@ layout: splash
 
 # Wer wir sind
 
-[![GGI](/assets/images/2025-10-05-GGI-Logo.svg){:style="height:5em;padding:1em;"}](https://ggi-initiative.at/)
-[![MFG](/assets/images/2025-10-05-MFG-Logo.svg){:style="height:5em;padding:1em;"}](https://www.mfg-oe.at/)
-[![Demokratie](/assets/images/2025-10-06-demokratie-logo.svg){:style="height:5em;padding:1em;"}](https://demokratie.at/)
-[![Eiche](/assets/images/2025-10-06-Eiche-Logo.svg){:style="height:5em;padding:1em;"}](https://www.die-eiche.at/)
-[![Respekt](/assets/images/2025-10-05-Respekt-Logo.svg){:style="height:5em;padding:1em;"}](https://respekt.plus/)
-[![Gesundheit](/assets/images/2025-10-05-Gesundheit-Logo.svg){:style="height:5em;padding:1em;"}](https://ggi-initiative.at/)
+[![GGI](/assets/images/2025-10-05-GGI-Logo.svg){:style="height:7em;padding:1em;"}](https://ggi-initiative.at/)
+[![MFG](/assets/images/2025-10-05-MFG-Logo.svg){:style="height:7em;padding:1em;"}](https://www.mfg-oe.at/)
+[![Demokratie](/assets/images/2025-10-06-demokratie-logo.svg){:style="height:7em;padding:1em;"}](https://demokratie.at/)
+[![Eiche](/assets/images/2025-10-06-Eiche-Logo.svg){:style="height:7em;padding:1em;"}](https://www.die-eiche.at/)
+[![Respekt](/assets/images/2025-10-05-Respekt-Logo.svg){:style="height:7em;padding:1em;"}](https://respekt.plus/)
+[![Gesundheit](/assets/images/2025-10-05-Gesundheit-Logo.svg){:style="height:7em;padding:1em;"}](https://ggi-initiative.at/)
 
-### Unterstützung der Initiative
+# Unterstützung der Initiative
 
-<a href="https://souveraenitaet.org"><img src="/assets/images/2025-10-05-Souveraenitaet-Logo.svg" style="height:5em"></a>
-<a href="https://liste-petrovic.at/"><img src="/assets/images/2025-10-05-LMP-Logo.svg" style="height:5em"></a>
-<a href="https://demokratieundgrundrechte.org/"><img src="/assets/images/2025-10-12-demokratie-grundrechte-logo.svg" style="height:5em"></a>
-<a href="https://www.brightside.at/"><img src="/assets/images/2025-10-05-Brightside-Logo.svg" style="height:5em"></a>
-<a href="https://changemedia.club/"><img src="/assets/images/2025-10-05-Changemedia-Logo.svg" style="height:5em"></a>
-<a href="https://www.nixonfollowsthemoney.com/"><img src="/assets/images/2025-10-12-nixon-logo.svg" style="height:5em"></a>
-<a href="https://aufbruchoesterreich.at/"><img src="/assets/images/2025-10-12-Aufbruch.svg" style="height:5em"></a>
+[![Souveränität](/assets/images/2025-10-05-Souveraenitaet-Logo.svg){:style="height:7em;padding:1em;"}](https://souveraenitaet.org/)
+[![Petrovic](/assets/images/2025-10-05-LMP-Logo.svg){:style="height:7em;padding:1em;"}](https://liste-petrovic.at/)
+[![Demokratie und Grundrechte](/assets/images/2025-10-12-demokratie-grundrechte-logo.svg){:style="height:7em;padding:1em;"}](https://demokratieundgrundrechte.org/)
+[![Brightside](/assets/images/2025-10-05-Brightside-Logo.svg){:style="height:7em;padding:1em;"}](https://www.brightside.at/)
+[![Change](/assets/images/2025-10-05-Changemedia-Logo.svg){:style="height:7em;padding:1em;"}](https://changemedia.club/)
+[![Nixon](/assets/images/2025-10-12-nixon-logo.svg){:style="height:7em;padding:1em;"}](https://www.nixonfollowsthemoney.com/)
+[![Aufbruch](/assets/images/2025-10-12-Aufbruch.svg){:style="height:7em;padding:1em;"}](https://aufbruchoesterreich.at/)
