@@ -1,0 +1,26 @@
+---
+permalink: wer-wir-sind.html
+title: "Wer wir sind"
+layout: splash
+---
+
+![Nein zu den IGV der WHO](/assets/images/neinzuigv-logo.png){:width="100%"}
+
+# Wer wir sind
+
+<a href="https://ggi-initiative.at/"><img src="/assets/images/2025-10-05-GGI-Logo.svg" style="height:5em"></a>
+<a href="https://www.mfg-oe.at/"><img src="/assets/images/2025-10-05-MFG-Logo.svg" style="height:5em"></a>
+<a href="https://demokratie.at/"><img src="/assets/images/2025-10-06-demokratie-logo.svg" style="height:5em"></a>
+<a href="https://www.die-eiche.at/"><img src="/assets/images/2025-10-06-Eiche-Logo.svg" style="height:5em"></a>
+<a href="https://respekt.plus/"><img src="/assets/images/2025-10-05-Respekt-Logo.svg" style="height:5em"></a>
+<a href="https://www.gesundheit-oesterreich.at/"><img src="/assets/images/2025-10-05-Gesundheit-Logo.svg" style="height:5em"></a>
+
+### Unterstützung der Initiative
+
+<a href="https://souveraenitaet.org"><img src="/assets/images/2025-10-05-Souveraenitaet-Logo.svg" style="height:5em"></a>
+<a href="https://liste-petrovic.at/"><img src="/assets/images/2025-10-05-LMP-Logo.svg" style="height:5em"></a>
+<a href="https://demokratieundgrundrechte.org/"><img src="/assets/images/2025-10-12-demokratie-grundrechte-logo.svg" style="height:5em"></a>
+<a href="https://www.brightside.at/"><img src="/assets/images/2025-10-05-Brightside-Logo.svg" style="height:5em"></a>
+<a href="https://changemedia.club/"><img src="/assets/images/2025-10-05-Changemedia-Logo.svg" style="height:5em"></a>
+<a href="https://www.nixonfollowsthemoney.com/"><img src="/assets/images/2025-10-12-nixon-logo.svg" style="height:5em"></a>
+<a href="https://aufbruchoesterreich.at/"><img src="/assets/images/2025-10-12-Aufbruch.svg" style="height:5em"></a>
