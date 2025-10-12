@@ -4,11 +4,12 @@ title: "Wer wir sind"
 layout: splash
 ---
 
-![Nein zu den IGV der WHO](/assets/images/neinzuigv-logo.png){:width="100%"}
+![Nein zu den IGV der WHO](/assets/images/neinzuigv-logo.png){:style="width:100%"}
 
 # Wer wir sind
 
-<a href="https://ggi-initiative.at/"><img src="/assets/images/2025-10-05-GGI-Logo.svg" style="height:5em"></a>
+[![GGI](/assets/images/2025-10-05-GGI-Logo.svg){:style="height:5em;padding:1em;"}](https://ggi-initiative.at/)
+<a href="https://ggi-initiative.at/"><img src="/assets/images/2025-10-05-GGI-Logo.svg" style="height:5em;padding:1em;"></a>
 <a href="https://www.mfg-oe.at/"><img src="/assets/images/2025-10-05-MFG-Logo.svg" style="height:5em"></a>
 <a href="https://demokratie.at/"><img src="/assets/images/2025-10-06-demokratie-logo.svg" style="height:5em"></a>
 <a href="https://www.die-eiche.at/"><img src="/assets/images/2025-10-06-Eiche-Logo.svg" style="height:5em"></a>
