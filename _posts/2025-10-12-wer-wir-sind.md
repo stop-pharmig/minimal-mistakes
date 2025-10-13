@@ -13,7 +13,7 @@ layout: splash
 [![Demokratie](/assets/images/2025-10-12-demokratie-logo.svg){:style="height:7em;padding:1em;"}](https://demokratie.at/)
 [![Eiche](/assets/images/2025-10-06-Eiche-Logo.svg){:style="height:7em;padding:1em;"}](https://www.die-eiche.at/)
 [![Respekt](/assets/images/2025-10-05-Respekt-Logo.svg){:style="height:7em;padding:1em;"}](https://respekt.plus/)
-[![Gesundheit](/assets/images/2025-10-05-Gesundheit-Logo.svg){:style="height:7em;padding:1em;"}](https://ggi-initiative.at/)
+[![Gesundheit](/assets/images/2025-10-05-Gesundheit-Logo.svg){:style="height:7em;padding:1em;"}](https://www.gesundheit-oesterreich.at/)
 
 # Unterstützung der Initiative
 
