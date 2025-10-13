@@ -18,6 +18,7 @@ layout: splash
 # Unterstützung der Initiative
 
 [![Souveränität](/assets/images/2025-10-05-Souveraenitaet-Logo.svg){:style="height:7em;padding:1em;"}](https://souveraenitaet.org/)
+[![Einheit](/assets/images/2025-10-13-Einheit.svg){:style="height:7em;padding:1em;"}](https://einheit.at/)
 [![Petrovic](/assets/images/2025-10-05-LMP-Logo.svg){:style="height:7em;padding:1em;"}](https://liste-petrovic.at/)
 [![Demokratie und Grundrechte](/assets/images/2025-10-12-demokratie-grundrechte-logo.svg){:style="height:7em;padding:1em;"}](https://demokratieundgrundrechte.org/)
 [![Brightside](/assets/images/2025-10-05-Brightside-Logo.svg){:style="height:7em;padding:1em;"}](https://www.brightside.at/)
