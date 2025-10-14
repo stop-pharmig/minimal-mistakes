@@ -12,6 +12,7 @@ layout: splash
 [![MFG](/assets/images/2025-10-05-MFG-Logo.svg){:style="height:7em;padding:1em;"}](https://www.mfg-oe.at/)
 [![Demokratie](/assets/images/2025-10-12-demokratie-logo.svg){:style="height:7em;padding:1em;"}](https://demokratie.at/)
 [![Eiche](/assets/images/2025-10-13-Eiche.svg){:style="height:7em;padding:1em;"}](https://www.die-eiche.at/)
+[![Oma](/assets/images/2025-10-14-Oma.svg){:style="height:7em;padding:1em;"}](https://www.albrecht-naturheilkunde.at/)
 [![Respekt](/assets/images/2025-10-05-Respekt-Logo.svg){:style="height:7em;padding:1em;"}](https://respekt.plus/)
 [![Gesundheit](/assets/images/2025-10-05-Gesundheit-Logo.svg){:style="height:7em;padding:1em;"}](https://www.gesundheit-oesterreich.at/)
 
