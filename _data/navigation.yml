@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Wer wir sind"
-    url: /wir
+    url: /wer-wir-sind
   - title: "Die WHO"
     url: /who
   - title: "Die Internationalen Gesundheitsvorschriften"
