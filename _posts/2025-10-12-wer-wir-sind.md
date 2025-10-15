@@ -26,3 +26,4 @@ layout: splash
 [![Change](/assets/images/2025-10-05-Changemedia-Logo.svg){:style="height:7em;padding:2em;"}](https://changemedia.club/)
 [![Nixon](/assets/images/2025-10-12-nixon-logo.svg){:style="height:7em;padding:2em;"}](https://www.nixonfollowsthemoney.com/)
 [![Aufbruch](/assets/images/2025-10-12-Aufbruch.svg){:style="height:7em;padding:1em;"}](https://aufbruchoesterreich.at/)
+[![Idealism](/assets/images/2025-10-15-Idealism.svg){:style="height:7em;padding:1em;"}](https://www.idealismprevails.at/)
