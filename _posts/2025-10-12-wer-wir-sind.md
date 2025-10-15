@@ -27,3 +27,5 @@ layout: splash
 [![Nixon](/assets/images/2025-10-12-nixon-logo.svg){:style="height:7em;padding:2em;"}](https://www.nixonfollowsthemoney.com/)
 [![Aufbruch](/assets/images/2025-10-12-Aufbruch.svg){:style="height:7em;padding:1em;"}](https://aufbruchoesterreich.at/)
 [![Idealism](/assets/images/2025-10-15-Idealism.svg){:style="height:7em;padding:1em;"}](https://www.idealismprevails.at/)
+[![EMUs](/assets/images/2025-10-15-EMUs.svg){:style="height:7em;padding:1em;"}](https://wir-emus.com/)
+
