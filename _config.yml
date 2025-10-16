@@ -16,10 +16,10 @@ minimal_mistakes_skin    : contrast # "default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : de
-title                    : Nein zu den IGV der WHO
+title                    : NEIN zu den IGV der WHO
 title_separator          : " "
 subtitle                 : " "
-name                     : "Nein zu den IGV der WHO"
+name                     : "NEIN zu den IGV der WHO"
 description              : ""
 url                      : https://neinzuigv.at
 baseurl                  : /
