@@ -21,7 +21,7 @@ title_separator          : " "
 subtitle                 : " "
 name                     : "NEIN zu den IGV der WHO"
 description              : ""
-url                      : https://neinzuigv.at
+url                      : https://NEINzuIGV.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/2025-09-23-IGV.png
