@@ -6,6 +6,14 @@ permalink: impressum.html
 # Impressum
 
 Für den Inhalt verantwortlich:  
+
+Monika Henninger-Erber  
+Liebhartstalstrasse 22  
+1160 Wien  
+Österreich  
+
+und
+
 Oliver Hoffmann  
 Karolinengasse 31  
 1040 Wien  
