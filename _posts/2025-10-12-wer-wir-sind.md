@@ -6,6 +6,7 @@ layout: splash
 
 ![Nein zu den IGV der WHO](/assets/images/neinzuigv-logo.png){:style="width:100%"}
 
+  
 # Wer wir sind
 
 [![GGI](/assets/images/2025-10-05-GGI-Logo.svg){:style="height:7em;padding:2em;"}](https://ggi-initiative.at/)
@@ -16,6 +17,7 @@ layout: splash
 [![Respekt](/assets/images/2025-10-05-Respekt-Logo.svg){:style="height:7em;padding:2em;"}](https://respekt.plus/)
 [![Gesundheit](/assets/images/2025-10-05-Gesundheit-Logo.svg){:style="height:7em;padding:2em;"}](https://www.gesundheit-oesterreich.at/)
 
+  
 # Unterstützung der Initiative
 
 [![Souveränität](/assets/images/2025-10-05-Souveraenitaet-Logo.svg){:style="height:7em;padding:2em;"}](https://souveraenitaet.org/)
