@@ -28,4 +28,5 @@ layout: splash
 [![Aufbruch](/assets/images/2025-10-12-Aufbruch.svg){:style="height:7em;padding:1em;"}](https://aufbruchoesterreich.at/)
 [![Idealism](/assets/images/2025-10-15-Idealism.svg){:style="height:7em;padding:1em;"}](https://www.idealismprevails.at/)
 [![EMUs](/assets/images/2025-10-15-EMUs.svg){:style="height:7em;padding:1em;"}](https://wir-emus.com/)
+[![Gesellschaft Zukunft Salzburg](/assets/images/G_Zukunft Salzburg.svg){:style="height:7em;padding:1em;"}](https://www.facebook.com/gesellschaft.zukunft.salzburg/)
 
