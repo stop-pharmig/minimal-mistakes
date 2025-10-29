@@ -39,4 +39,4 @@ layout: splash
 [![Gesellschaft Zukunft Salzburg](/assets/images/2025-10-25-G-Zukunft-Salzburg.svg){:style="height:7em;padding:1em;"}](https://www.facebook.com/gesellschaft.zukunft.salzburg/)
 [![Wir miteinander](/assets/images/2025-10-25-Wir-miteinander.svg){:style="height:7em;padding:1em;"}](https://wirmiteinander.at/)
 [![Wir miteinander](/assets/images/2025-10-29-GHR.svg){:style="height:7em;padding:1em;"}](https://www.ghr.agency/)
-[![Wir miteinander](/assets/images/2025-10-29-Steyr.svg){:style="height:7em;padding:1em;"}](https://www.facebook.com/events/1800294857295835)
+[![Wir miteinander](/assets/images/2025-10-29-Spaziergang.svg){:style="height:7em;padding:1em;"}](https://www.facebook.com/events/1800294857295835)
