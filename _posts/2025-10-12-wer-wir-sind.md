@@ -32,7 +32,7 @@ layout: splash
 [![Demokratie und Grundrechte](/assets/images/2025-10-12-demokratie-grundrechte-logo.svg){:style="height:7em;padding:2em;"}](https://demokratieundgrundrechte.org/)
 [![Brightside](/assets/images/2025-10-05-Brightside-Logo.svg){:style="height:7em;padding:1em;"}](https://www.brightside.at/)
 [![Change](/assets/images/2025-10-05-Changemedia-Logo.svg){:style="height:7em;padding:2em;"}](https://changemedia.club/)
-[![Nixon](/assets/images/2025-10-27-Nixon.svg){:style="height:7em;padding:2em;"}](https://www.nixonfollowsthemoney.com/)
+[![Nixon](/assets/images/2025-10-31-Nixon.svg){:style="height:7em;padding:2em;"}](https://www.nixonfollowsthemoney.com/)
 [![Aufbruch](/assets/images/2025-10-12-Aufbruch.svg){:style="height:7em;padding:1em;"}](https://aufbruchoesterreich.at/)
 [![Idealism](/assets/images/2025-10-15-Idealism.svg){:style="height:7em;padding:1em;"}](https://www.idealismprevails.at/)
 [![EMUs](/assets/images/2025-10-15-EMUs.svg){:style="height:7em;padding:1em;"}](https://wir-emus.com/)
