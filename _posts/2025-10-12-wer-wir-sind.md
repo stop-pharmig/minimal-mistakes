@@ -40,6 +40,6 @@ layout: splash
 [![Wir miteinander](/assets/images/2025-10-25-Wir-miteinander.svg){:style="height:7em;padding:1em;"}](https://wirmiteinander.at/)
 [![GHR](/assets/images/2025-10-29-GHR.svg){:style="height:7em;padding:1em;"}](https://www.ghr.agency/)
 ![Steyr](/assets/images/2025-10-29-Steyrer-Spaziergang.svg){:style="height:7em;padding:1em;"}
-[![Freisinnige](/assets/images/2025-10-29-Freisinnige.svg){:style="height:7em;padding:1em;"}](https://freisinnige.at/)
+[![Freisinnige](/assets/images/2025-10-31-Freisinnige.svg){:style="height:7em;padding:2em;"}](https://freisinnige.at/)
 
 
