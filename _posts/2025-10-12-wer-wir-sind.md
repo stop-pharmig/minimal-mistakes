@@ -39,6 +39,7 @@ layout: splash
 [![Gesellschaft Zukunft Salzburg](/assets/images/2025-10-25-G-Zukunft-Salzburg.svg){:style="height:7em;padding:1em;"}](https://www.facebook.com/gesellschaft.zukunft.salzburg/)
 ![Politischer Solon](/assets/images/2025-11-10-Politischer-Salon.svg){:style="height:7em;padding:1em;"}
 [![Wir miteinander](/assets/images/2025-10-25-Wir-miteinander.svg){:style="height:7em;padding:1em;"}](https://wirmiteinander.at/)
+[![Echte Demokratie](/assets/images/2025-11-10-Echte-Demokratie.jpg){:style="height:7em;padding:1em;"}](https://echte-demokratie.at/)
 [![GHR](/assets/images/2025-10-29-GHR.svg){:style="height:7em;padding:1em;"}](https://www.ghr.agency/)
 ![Steyr](/assets/images/2025-10-29-Steyrer-Spaziergang.svg){:style="height:7em;padding:1em;"}
 [![Freisinnige](/assets/images/2025-10-31-Freisinnige.svg){:style="height:7em;padding:2em;"}](https://freisinnige.at/)
