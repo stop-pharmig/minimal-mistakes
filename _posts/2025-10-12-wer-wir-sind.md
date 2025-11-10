@@ -37,6 +37,7 @@ layout: splash
 [![Idealism](/assets/images/2025-10-15-Idealism.svg){:style="height:7em;padding:1em;"}](https://www.idealismprevails.at/)
 [![EMUs](/assets/images/2025-10-15-EMUs.svg){:style="height:7em;padding:1em;"}](https://wir-emus.com/)
 [![Gesellschaft Zukunft Salzburg](/assets/images/2025-10-25-G-Zukunft-Salzburg.svg){:style="height:7em;padding:1em;"}](https://www.facebook.com/gesellschaft.zukunft.salzburg/)
+[![Politischer Solon](/assets/images/2025-11-10-Politischer-Salon.svg){:style="height:7em;padding:1em;"}]
 [![Wir miteinander](/assets/images/2025-10-25-Wir-miteinander.svg){:style="height:7em;padding:1em;"}](https://wirmiteinander.at/)
 [![GHR](/assets/images/2025-10-29-GHR.svg){:style="height:7em;padding:1em;"}](https://www.ghr.agency/)
 ![Steyr](/assets/images/2025-10-29-Steyrer-Spaziergang.svg){:style="height:7em;padding:1em;"}
