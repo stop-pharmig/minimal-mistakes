@@ -9,11 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 283.63333 47.625018"
+   viewBox="0 0 254 79.999998"
    version="1.1"
    id="svg5"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="2025-11-12-Freisinnige.svg">
+   sodipodi:docname="2025-11-12-Freisinnige.svg"
+   width="254"
+   height="80">
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -22,6 +24,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -41,12 +44,12 @@
      fit-margin-right="5"
      fit-margin-bottom="5"
      inkscape:zoom="1.3168229"
-     inkscape:cx="135.52096"
+     inkscape:cx="91.697075"
      inkscape:cy="-50.479242"
      inkscape:window-width="1177"
      inkscape:window-height="798"
-     inkscape:window-x="104"
-     inkscape:window-y="104"
+     inkscape:window-x="724"
+     inkscape:window-y="334"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -62,10 +65,10 @@
      inkscape:label="Ebene 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(91.899625,-87.898499)">
+     transform="translate(91.899625,-55.523519)">
     <g
        id="g1025"
-       transform="matrix(0.69342078,0,0,0.69342078,15.956975,33.868573)">
+       transform="matrix(0.88634054,0,0,0.88634054,-9.6085362,-2.2976498)">
       <rect
          style="fill:#ffff00;stroke:none;stroke-width:0.56157798"
          id="rect20445"
