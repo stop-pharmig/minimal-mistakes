@@ -12,7 +12,6 @@ layout: splash
 
 # Wer wir sind
 
-[![GHR](/assets/images/2025-11-12-GHR.svg){:style="height:7em;padding:1em;"}](https://www.ghr.agency/)
 [![GGI](/assets/images/2025-10-05-GGI-Logo.svg){:style="height:7em;padding:2em;"}](https://ggi-initiative.at/)
 [![MFG](/assets/images/2025-10-05-MFG-Logo.svg){:style="height:7em;padding:2em;"}](https://www.mfg-oe.at/)
 [![Demokratie](/assets/images/2025-10-12-demokratie-logo.svg){:style="height:7em;padding:2em;"}](https://demokratie.at/)
@@ -27,6 +26,7 @@ layout: splash
 
 # Unterstützung der Initiative
 
+[![GHR](/assets/images/2025-11-12-GHR.svg){:style="height:7em;padding:1em;"}](https://www.ghr.agency/)
 [![Souveränität](/assets/images/2025-10-05-Souveraenitaet-Logo.svg){:style="height:7em;padding:2em;"}](https://souveraenitaet.org/)
 [![Einheit](/assets/images/2025-10-13-Einheit.svg){:style="height:7em;padding:1em;"}](https://einheit.at/)
 [![Petrovic](/assets/images/2025-10-05-LMP-Logo.svg){:style="height:7em;padding:2em;"}](https://liste-petrovic.at/)
