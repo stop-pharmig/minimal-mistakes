@@ -42,6 +42,6 @@ layout: splash
 [![Wir miteinander](/assets/images/2025-10-25-Wir-miteinander.svg){:style="height:7em;padding:1em;"}](https://wirmiteinander.at/)
 [![Echte Demokratie](/assets/images/2025-11-12-Echte-Demokratie.jpg){:style="height:7em;padding:1em;"}](https://echte-demokratie.at/)
 ![Steyr](/assets/images/2025-10-29-Steyrer-Spaziergang.svg){:style="height:7em;padding:1em;"}
-[![Freisinnige](/assets/images/2025-11-12-Freisinnige.svg){:style="height:7em;padding:2em;"}](https://freisinnige.at/)
-[![Alpenunion](/assets/images/2025-11-19-Alpenunion.jpg){:style="height:7em;padding:2em;"}](https://www.alpenunion.com/)
-[![World Council for Health Austria](/assets/images/2025-11-19-WorldCouncilForHealth.jpg){:style="height:7em;padding:2em;"}](https://www.wch-austria.org/)
+[![Freisinnige](/assets/images/2025-11-12-Freisinnige.svg){:style="height:7em;padding:1em;"}](https://freisinnige.at/)
+[![Alpenunion](/assets/images/2025-11-19-Alpenunion.jpg){:style="height:7em;padding:1em;"}](https://www.alpenunion.com/)
+[![World Council for Health Austria](/assets/images/2025-11-19-WorldCouncilForHealth.jpg){:style="height:7em;padding:1em;"}](https://www.wch-austria.org/)
