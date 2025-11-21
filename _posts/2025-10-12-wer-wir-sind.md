@@ -27,7 +27,7 @@ layout: splash
 # Unterstützung der Initiative
 
 [![GHR](/assets/images/2025-11-12-GHR.svg){:style="height:7em;padding:1em;"}](https://www.ghr.agency/)
-[![AFA](/assets/images/2025-11-21-AFA.svg){:style="height:7em;padding:1em;"}](https://www.afa-zone.at/)
+[![AFA](/assets/images/2025-11-21-AFA.svg){:style="height:7em;padding:2em;"}](https://www.afa-zone.at/)
 [![Souveränität](/assets/images/2025-10-05-Souveraenitaet-Logo.svg){:style="height:7em;padding:2em;"}](https://souveraenitaet.org/)
 [![Einheit](/assets/images/2025-10-13-Einheit.svg){:style="height:7em;padding:1em;"}](https://einheit.at/)
 [![Petrovic](/assets/images/2025-10-05-LMP-Logo.svg){:style="height:7em;padding:2em;"}](https://liste-petrovic.at/)
