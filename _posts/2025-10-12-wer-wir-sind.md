@@ -17,7 +17,7 @@ layout: splash
 [![Demokratie](/assets/images/2025-10-12-demokratie-logo.svg){:style="height:7em;padding:2em;"}](https://demokratie.at/)
 [![Eiche](/assets/images/2025-10-13-Eiche.svg){:style="height:7em;padding:2em;"}](https://www.die-eiche.at/)
 [![Oma](/assets/images/2025-10-14-Oma.svg){:style="height:7em;padding:1em;"}](https://www.albrecht-naturheilkunde.at/)
-[![Respekt](/assets/images/2025-10-05-Respekt-Logo.svg){:style="height:7em;padding:2em;"}](https://respekt.plus/)
+<!-- [![Respekt](/assets/images/2025-10-05-Respekt-Logo.svg){:style="height:7em;padding:2em;"}](https://respekt.plus/) -->
 [![Gesundheit](/assets/images/2025-10-05-Gesundheit-Logo.svg){:style="height:7em;padding:2em;"}](https://www.gesundheit-oesterreich.at/)
 
 <br>
@@ -43,4 +43,4 @@ layout: splash
 [![Wir miteinander](/assets/images/2025-10-25-Wir-miteinander.svg){:style="height:7em;padding:1em;"}](https://wirmiteinander.at/)
 ![Steyr](/assets/images/2025-10-29-Steyrer-Spaziergang.svg){:style="height:7em;padding:1em;"}
 [![Alpenunion](/assets/images/2025-11-19-Alpenunion.jpg){:style="height:7em;padding:1em;"}](https://www.alpenunion.com/)
-[![World Council for Health Austria](/assets/images/2025-11-19-WorldCouncilForHealth.jpg){:style="height:7em;padding:1em;"}](https://www.wch-austria.org/)
+<!-- [![World Council for Health Austria](/assets/images/2025-11-19-WorldCouncilForHealth.jpg){:style="height:7em;padding:1em;"}](https://www.wch-austria.org/) -->
