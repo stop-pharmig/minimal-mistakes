@@ -42,5 +42,5 @@ layout: splash
 ![Politischer Solon](/assets/images/2025-11-10-Politischer-Salon.svg){:style="height:7em;padding:1em;"}
 [![Wir miteinander](/assets/images/2025-10-25-Wir-miteinander.svg){:style="height:7em;padding:1em;"}](https://wirmiteinander.at/)
 ![Steyr](/assets/images/2025-10-29-Steyrer-Spaziergang.svg){:style="height:7em;padding:1em;"}
-[![Alpenunion](/assets/images/2025-11-19-Alpenunion.jpg){:style="height:7em;padding:1em;"}](https://www.alpenunion.com/)
+<!-- [![Alpenunion](/assets/images/2025-11-19-Alpenunion.jpg){:style="height:7em;padding:1em;"}](https://www.alpenunion.com/) -->
 <!-- [![World Council for Health Austria](/assets/images/2025-11-19-WorldCouncilForHealth.jpg){:style="height:7em;padding:1em;"}](https://www.wch-austria.org/) -->
