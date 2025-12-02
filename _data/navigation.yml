@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "Parlamentarische Bürgerinitiative"
+    url: /buergerinitiative
   - title: "Wir"
     url: /wer-wir-sind
   - title: "Medien"
