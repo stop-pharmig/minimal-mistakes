@@ -15,7 +15,7 @@ Liebhartstalstrasse 22
 und
 
 Oliver Hoffmann  
-Karolinengasse 31  
+Karolinengasse 31/20
 1040 Wien  
 Österreich  
 
