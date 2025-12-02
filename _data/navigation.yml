@@ -4,6 +4,8 @@ main:
     url: /
   - title: "Wer wir sind"
     url: /wer-wir-sind
+  - title: "Medien"
+    url: /medien
   - title: "Die WHO"
     url: /who
   - title: "Die Internationalen Gesundheitsvorschriften"
