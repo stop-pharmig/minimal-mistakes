@@ -25,12 +25,12 @@ layout: splash
 # Unterstützung der Initiative
 
 [![Demokratie](/assets/images/2025-10-12-demokratie-logo.svg){:style="height:7em;padding:2em;"}](https://demokratie.at/)
+[![Oma](/assets/images/2025-10-14-Oma.svg){:style="height:7em;padding:1em;"}](https://www.die-eiche.at/oma)
 [![GHR](/assets/images/2025-11-12-GHR.svg){:style="height:7em;padding:1em;"}](https://www.ghr.agency/)
 [![AFA](/assets/images/2025-11-21-AFA.svg){:style="height:7em;padding:2em;"}](https://www.afa-zone.at/)
 [![Souveränität](/assets/images/2025-10-05-Souveraenitaet-Logo.svg){:style="height:7em;padding:2em;"}](https://souveraenitaet.org/)
 [![Einheit](/assets/images/2025-10-13-Einheit.svg){:style="height:7em;padding:1em;"}](https://einheit.at/)
 [![Petrovic](/assets/images/2025-10-05-LMP-Logo.svg){:style="height:7em;padding:2em;"}](https://liste-petrovic.at/)
-[![Oma](/assets/images/2025-10-14-Oma.svg){:style="height:7em;padding:1em;"}](https://www.die-eiche.at/oma)
 [![Demokratie und Grundrechte](/assets/images/2025-10-12-demokratie-grundrechte-logo.svg){:style="height:7em;padding:2em;"}](https://demokratieundgrundrechte.org/)
 [![Brightside](/assets/images/2025-10-05-Brightside-Logo.svg){:style="height:7em;padding:1em;"}](https://www.brightside.at/)
 [![Change](/assets/images/2025-10-05-Changemedia-Logo.svg){:style="height:7em;padding:2em;"}](https://changemedia.club/)
