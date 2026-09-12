@@ -7,19 +7,9 @@ permalink: impressum.html
 
 Für den Inhalt verantwortlich:  
 
-Monika Henninger-Erber  
-Liebhartstalstrasse 22  
-1160 Wien  
-Österreich  
-
-und
-
-Oliver Hoffmann  
-Karolinengasse 31/20  
-1040 Wien  
-Österreich  
-tel 0676 4067794  
-
+Robert Glaubauf  
+Breitenleer Straße 180/12  
+1220 Wien  
 
 Elektronische Post: email ät NEINzuIGV . at  
 
